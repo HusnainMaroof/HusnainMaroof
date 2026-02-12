@@ -66,13 +66,6 @@ I value clarity in architecture, predictable behavior in production, and solutio
 - [💳 Paymit – Fintech UI](https://paymit.co.uk/)
 - [🩺 Dr. Ali Misbah – Personal Website](https://draliamisbah.com/)
 
-
-## 📊 GitHub Stats
-
-
-
----
-
 <p align="center">
   <b>Building systems that remain stable, scalable, and production-ready.</b>
 </p>
