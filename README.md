@@ -1,4 +1,7 @@
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=HusnainMaroof&label=Profile%20views&color=00c853&style=flat" alt="Profile views" />
+  <a href="https://husnain.cc"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fhusnain.cc%2Fapi%2Fbadge&style=flat" alt="Portfolio visits" /></a>
+</p>
 <div align="center">
 
 # HUSNAIN MAROOF
